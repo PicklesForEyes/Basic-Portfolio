@@ -40,7 +40,7 @@ header a {
 	width: 650px;
 	background-color: #fff;
 	border-style: solid;
-	border-width: 2px;
+	border-width: 1px;
 	border-color: #ccc;
 }
 
@@ -51,12 +51,19 @@ header a {
 #maincontent p {
 	font-size: 16pt;
 	color: #777;
+	margin-right: 10px;
 }
 
 #maincontent img {
 	height: 200px;
 	width: 200px;
 	float: left;
+}
+
+#connectbox {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
 }
 
 #connectbox img {
