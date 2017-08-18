@@ -3,6 +3,7 @@ header {
 	border-width: 2px;
 	border-color: #ccc;
 	background-color: #fff;
+	margin: 0 auto;
 }
 
 h1, h2 {
@@ -70,6 +71,7 @@ header a {
 	border-style: solid;
 	border-width: 1px;
 	border-color: #ccc;
+	background-color: #fff;
 }
 
 #connectbox img {
@@ -85,9 +87,11 @@ header a {
 	border-top-style: solid;
 	border-width: 6px;
 	border-color: #4aaaa5;
+	position: absolute;
+	bottom: 0;
 }
 
 #footing p {
 	padding: 30px;
-	color: white;
+	color: #777;
 }
