@@ -27,6 +27,10 @@ header ul {
 	width: 200px;
 }
 
+#connectbox img {
+	height:48px;
+	width:48px;
+}
 
 #footing {
 	width: 100%;
