@@ -8,6 +8,10 @@ h1, h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+ul, p {
+	font-family: 'Ariel', Helvetica Neue, Helvetica, sans-serif;
+}
+
 #name {
 	padding: 9px;
 	background-color: #4aaaa5;
