@@ -8,6 +8,16 @@ h1, h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+header h1 {
+	background-color: #4aaaa5;
+	padding: 9px;
+}
+
+header ul {
+	list-style-type: none;
+
+}
+
 
 #footing {
 	width: 100%;
