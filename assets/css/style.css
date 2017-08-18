@@ -12,13 +12,18 @@ h1, h2 {
 	padding: 9px;
 	background-color: #4aaaa5;
 	width: 20%;
-	
+	float: left;
 }
 
 header ul {
 	list-style-type: none;
 	width: 20px;
 	
+}
+
+#maincontent img {
+	height: 200px;
+	width: 200px;
 }
 
 
