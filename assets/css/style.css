@@ -33,7 +33,7 @@ header a {
 }
 
 .container {
-	width: 960px;
+	width: 1024px;
 	margin: 0 auto;
 }
 
@@ -41,9 +41,7 @@ header a {
 	float: left;
 	width: 650px;
 	background-color: #fff;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #ccc;
+
 	margin-right: 45px;
 }
 
@@ -68,10 +66,9 @@ header a {
 }
 
 #connectbox {
-	border-style: solid;
-	border-width: 1px;
-	border-color: #ccc;
+	width: 270px;
 	background-color: #fff;
+	float: left;
 }
 
 #connectbox img {
