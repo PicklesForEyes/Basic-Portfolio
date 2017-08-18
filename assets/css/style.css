@@ -41,7 +41,9 @@ header a {
 	float: left;
 	width: 650px;
 	background-color: #fff;
-
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
 	margin-right: 45px;
 }
 
@@ -69,6 +71,9 @@ header a {
 	width: 270px;
 	background-color: #fff;
 	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
 }
 
 #connectbox img {
