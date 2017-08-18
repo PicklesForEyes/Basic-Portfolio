@@ -4,6 +4,9 @@ header {
 	border-color: #ccc;
 }
 
+h1, h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
 
 
 #footing {
