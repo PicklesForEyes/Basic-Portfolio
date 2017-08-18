@@ -15,7 +15,9 @@ ul, p {
 	font-family: 'Ariel', Helvetica Neue, Helvetica, sans-serif;
 }
 
+#name {
 
+}
 
 ul {
 	list-style-type: none;
@@ -106,6 +108,7 @@ li a {
 }
 
 #footing p {
-	padding: 30px;
-	color: #777;
+	padding: 25px;
+	color: #fff;
+	font-size: 10pt;
 }
