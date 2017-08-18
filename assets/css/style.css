@@ -16,7 +16,12 @@ ul, p {
 }
 
 #name {
-
+	display: block;
+	background-color: #4aaaa5;
+	padding: 13.75px;
+	width: 9%;
+	color: #fff;
+	margin-left: 440px;
 }
 
 ul {
