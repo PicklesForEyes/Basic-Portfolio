@@ -32,6 +32,10 @@ header ul {
 	width: 650px;
 }
 
+#maincontent h1 {
+	color: #4aaaa5;
+}
+
 #maincontent p {
 	font-size: 16pt;
 }
