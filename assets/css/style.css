@@ -23,7 +23,6 @@ ul, p {
 header ul {
 	list-style-type: none;
 	width: 20px;
-	
 }
 
 header a {
@@ -47,11 +46,13 @@ header a {
 
 #maincontent p {
 	font-size: 16pt;
+	color: #777;
 }
 
 #maincontent img {
 	height: 200px;
 	width: 200px;
+	float: left;
 }
 
 #connectbox img {
