@@ -47,6 +47,9 @@ header a {
 
 #maincontent h1, h2 {
 	color: #4aaaa5;
+	border-bottom-style: solid;
+	border-width: 4px;
+	border-color: #777;
 }
 
 #maincontent p {
