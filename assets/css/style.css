@@ -32,6 +32,10 @@ header ul {
 	width: 650px;
 }
 
+#maincontent p {
+	font-size: 16pt;
+}
+
 #maincontent img {
 	height: 200px;
 	width: 200px;
