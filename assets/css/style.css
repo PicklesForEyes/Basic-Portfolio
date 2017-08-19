@@ -29,11 +29,13 @@ ul {
 	padding: 0 auto;
 	overflow: hidden;
 	background-color: #fff;
+	margin-right: 25%;
 }
 
 li {
 	position: relative;
 	float: right;
+	padding: 25px;
 }
 
 li a {
