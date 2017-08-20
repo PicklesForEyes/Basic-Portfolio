@@ -4,6 +4,9 @@ header {
 	background-color: white;
 	position: absolute;
 	top: 0;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #ccc;
 }
 
 h1, h2 {
