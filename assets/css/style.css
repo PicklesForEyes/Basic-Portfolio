@@ -35,7 +35,8 @@ ul {
 li {
 	position: relative;
 	float: right;
-	padding: 25px;
+	padding: 23px;
+	font-size: 16pt;
 }
 
 li a {
