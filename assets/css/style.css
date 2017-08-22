@@ -18,7 +18,7 @@ ul, p {
 	font-family: 'Ariel', Helvetica Neue, Helvetica, sans-serif;
 }
 
-#name {
+.name {
 	position: relative;
 	display: block;
 	background-color: #4aaaa5;
@@ -61,7 +61,7 @@ li a {
 	margin-top: 100px;
 }
 
-#maincontent {
+.maincontent {
 	float: left;
 	width: 650px;
 	background-color: #fff;
@@ -72,7 +72,7 @@ li a {
 	margin-top: 40px;
 }
 
-#maincontent h1, h2 {
+.maincontent h1, h2 {
 	color: #4aaaa5;
 	border-bottom-style: solid;
 	border-width: 2px;
@@ -81,20 +81,20 @@ li a {
 	padding-bottom: 20px;
 }
 
-#maincontent p {
+.maincontent p {
 	font-size: 16pt;
 	color: #777;
 	margin: 30px;
 }
 
-#maincontent img {
+.maincontent img {
 	height: 200px;
 	width: 200px;
 	float: left;
 	margin: 30px;
 }
 
-#connectbox {
+.connectbox {
 	width: 270px;
 	height: 200px;
 	background-color: #fff;
@@ -105,7 +105,7 @@ li a {
 	margin-top: 40px;
 }
 
-#connectbox img {
+.connectbox img {
 	height:58px;
 	width:58px;
 	padding: 10px;
@@ -113,7 +113,7 @@ li a {
 	margin-top: 10px;
 }
 
-#footing {
+.footing {
 	width: 100%;
 	text-align: center;
 	height: 80px;
@@ -125,11 +125,10 @@ li a {
 	bottom: 0;
 }
 
-#footing p {
+.footing p {
 	padding: 25px;
 	color: #fff;
 	font-size: 10pt;
-	overflow: hidden;
 }
 
 .clearfix {
