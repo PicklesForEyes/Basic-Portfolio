@@ -156,3 +156,12 @@ input, textarea {
 	width: 80%;
 	margin: 10px;
 }
+
+button {
+	background-color: #4aaaa5;
+	color: white;
+	border-style: none;
+	border-radius: none;
+	padding: 10px;
+	font-size: 15px
+}
