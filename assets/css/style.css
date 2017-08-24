@@ -24,7 +24,7 @@ h2 {
 }
 
 ul, p {
-	font-family: 'Ariel', Helvetica Neue, Helvetica, sans-serif;
+	font-family: 'Ariel', "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .name {
@@ -155,8 +155,12 @@ li a {
 
 input, textarea {
 	float: left;
-	width: 80%;
+	width: 95%;
 	margin: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
+	border-radius: 3px;
 }
 
 button {
@@ -166,4 +170,8 @@ button {
 	border-radius: none;
 	padding: 10px;
 	font-size: 15px
+}
+
+textarea {
+	font-family: "Ariel", "Helvetica Neue", Helvetica, sans-serif;
 }
