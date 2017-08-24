@@ -163,6 +163,10 @@ input, textarea {
 	border-radius: 3px;
 }
 
+input {
+	padding: 5px;
+}
+
 button {
 	background-color: #4aaaa5;
 	color: white;
@@ -170,8 +174,10 @@ button {
 	border-radius: none;
 	padding: 10px;
 	font-size: 15px
+	margin: 20px;
 }
 
 textarea {
 	font-family: "Ariel", "Helvetica Neue", Helvetica, sans-serif;
+	height: 150px;
 }
