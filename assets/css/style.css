@@ -181,3 +181,10 @@ textarea {
 	font-family: "Ariel", "Helvetica Neue", Helvetica, sans-serif;
 	height: 150px;
 }
+
+.inputLabel {
+	font-family: "Ariel". "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 16pt;
+	color: #777;
+	margin: 10px;
+}
