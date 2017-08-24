@@ -171,10 +171,10 @@ button {
 	background-color: #4aaaa5;
 	color: white;
 	border-style: none;
-	border-radius: none;
+	border-radius: unset;
 	padding: 10px;
-	font-size: 15px
-	margin: 20px;
+	font-size: 15px;
+	margin: 10px;
 }
 
 textarea {
