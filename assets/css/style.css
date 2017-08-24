@@ -12,6 +12,7 @@ header {
 
 h1, h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
 }
 
 h1 {
@@ -27,7 +28,7 @@ ul, p {
 }
 
 .name {
-	position: relative;
+	position: absolute;
 	display: block;
 	background-color: #4aaaa5;
 	padding: 13.75px;
@@ -35,7 +36,8 @@ ul, p {
 	color: #fff;
 	margin-left: 23%;
 	float: left;
-	bottom: 21px;
+	padding: 18px;
+	overflow: hidden;
 }
 
 ul {
