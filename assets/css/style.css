@@ -150,3 +150,9 @@ li a {
 	display: table;
 	clear:both;
 }
+
+input, textarea {
+	float: left;
+	width: 80%;
+	margin: 10px;
+}
