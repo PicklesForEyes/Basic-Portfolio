@@ -172,9 +172,10 @@ button {
 	color: white;
 	border-style: none;
 	border-radius: unset;
-	padding: 10px;
+	padding: 10px 20px;
 	font-size: 15px;
 	margin: 10px;
+	font-size: 16pt;
 }
 
 textarea {
