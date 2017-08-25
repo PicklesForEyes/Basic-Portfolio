@@ -98,7 +98,7 @@ li a {
 	margin: 30px;
 }
 
-.maincontent img {
+.profile{
 	height: 200px;
 	width: 200px;
 	float: left;
@@ -188,12 +188,4 @@ textarea {
 	font-size: 16pt;
 	color: #777;
 	margin: 10px;
-}
-
-.portcontent {
-	
-}
-
-.label {
-	float: left;
 }
