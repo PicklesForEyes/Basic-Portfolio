@@ -71,7 +71,7 @@ li a {
 	position: relative;
 	margin-top: 100px;
 	margin-bottom: 80px;
-	overflow: scroll;
+	overflow: auto;
 }
 
 .maincontent {
