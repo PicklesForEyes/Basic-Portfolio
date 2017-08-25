@@ -10,7 +10,7 @@ header {
 	overflow: hidden;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-weight: bold;
 }
@@ -191,5 +191,17 @@ textarea {
 }
 
 .portImg {
-	
+	width: 200px;
+	height: 200px;
+	margin: 30px;
+	position: relative;
+}
+
+.portItem {
+	position: relative;
+	float: left;
+}
+
+.label {
+
 }
