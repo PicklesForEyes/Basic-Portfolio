@@ -214,3 +214,14 @@ textarea {
 	overflow: hidden;
 	padding: 10px;
 }
+
+.wrap {
+	min-height: 100%;
+	margin-bottom: 69px;
+}
+
+.wrap:after {
+	content: "";
+	display: block;
+	height: 69px;
+}
