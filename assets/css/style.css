@@ -11,7 +11,7 @@ header {
 	width: 100%;
 	height: 100px;
 	background-color: white;
-	position: absolute;
+	position: relative;
 	top: 0;
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
@@ -78,7 +78,6 @@ li a {
 	width: 1024px;
 	margin: 0 auto;
 	position: relative;
-	margin-top: 100px;
 	margin-bottom: 80px;
 	overflow: auto;
 }
