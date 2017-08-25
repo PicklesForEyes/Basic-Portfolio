@@ -233,3 +233,7 @@ textarea {
 	display: block;
 	height: 69px;
 }
+
+a {
+	text-decoration: none; 
+}
